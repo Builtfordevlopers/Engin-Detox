@@ -1,0 +1,28 @@
+header img{
+    margin: 50px auto;
+    display: block;
+    width: 12vw;
+}
+
+main{
+    width: 90vw;
+    margin: auto;
+    
+   
+}
+.one{
+    color: red;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    margin: auto;
+}
+
+h2{
+    background: -webkit-linear-gradient(red, black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
